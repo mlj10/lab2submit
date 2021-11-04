@@ -1,2 +1,2 @@
-# lab2submit
+# Lab2
 Created with CodeSandbox
